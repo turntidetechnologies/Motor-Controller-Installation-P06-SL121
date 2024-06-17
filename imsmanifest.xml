@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ye5fNhBU6B" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">SL121 and P06 Motor Controllers</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="SL121_and_P06_Motor_Controllers_ORG">
+    <organization identifier="SL121_and_P06_Motor_Controllers_ORG">
+      <title>SL121 and P06 Motor Controllers</title>
+      <item identifier="SL121_and_P06_Motor_Controllers_SCO" isvisible="true" identifierref="__5ye5fNhBU6B_RES">
+        <title>SL121 and P06 Motor Controllers</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ye5fNhBU6B_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6QuIEDkc77g.png" />
+      <file href="mobile/6KOp8aIbE0G_M_742_742.png" />
+      <file href="mobile/6A7OcR9bcpo.png" />
+      <file href="mobile/6MU2pPsBYn2.png" />
+      <file href="mobile/6X9aNG3hwAG.png" />
+      <file href="mobile/6hVurTL5cCp.png" />
+      <file href="story_content/6TQ1uSV85ag_44100_48_0.mp3" />
+      <file href="story_content/5s8MlbHUUL0_44100_48_0.mp3" />
+      <file href="mobile/5paP7JoyRcK.png" />
+      <file href="mobile/6oSUZMx4S01_X.png" />
+      <file href="mobile/6UPfXz1Kppc.png" />
+      <file href="mobile/6A3nG9bZyOx.png" />
+      <file href="mobile/61mBHuyQXfw.png" />
+      <file href="story_content/5XjrvGAvMin_44100_48_0.mp3" />
+      <file href="story_content/5ovmifQnep7_44100_48_0.mp3" />
+      <file href="mobile/6ib9DGOdtvl_P_46_188_2001_1480.png" />
+      <file href="story_content/6UfRhJs9Lp9_44100_48_0.mp3" />
+      <file href="story_content/6VORADRJ5tw_44100_48_0.mp3" />
+      <file href="mobile/6R17yEpHRpk.png" />
+      <file href="story_content/6OKsMdt4RR0_44100_48_0.mp3" />
+      <file href="mobile/6f5xmw9FJkR.png" />
+      <file href="mobile/6eQeHn01rGl_X.png" />
+      <file href="story_content/5nHdySCHtqe_44100_48_0.mp3" />
+      <file href="mobile/6rbehvXeJN3.png" />
+      <file href="mobile/6Bq3hmzS6R2_M_730_730.png" />
+      <file href="mobile/5lVPb7pEdlh.png" />
+      <file href="story_content/5kFt6swkSir_44100_48_0.mp3" />
+      <file href="mobile/6quAe4XSYX5_P_0_286_1864_1761.png" />
+      <file href="story_content/6FePQVFCHQY_44100_48_0.mp3" />
+      <file href="story_content/6ZEfdRj3CbR_44100_48_0.mp3" />
+      <file href="mobile/60avAT56hTf.png" />
+      <file href="mobile/60pgsFlUCFk.png" />
+      <file href="story_content/6QNY4Xb9idh_44100_48_0.mp3" />
+      <file href="mobile/6OyFT4hMzBr_P_295_944_1339_1054.png" />
+      <file href="story_content/5uyzS4ozFSz_44100_48_0.mp3" />
+      <file href="mobile/6lMqkf9RLcF_B10.png" />
+      <file href="mobile/5YOybT16JSA.png" />
+      <file href="mobile/6OyFT4hMzBr_P_270_962_1348_703.png" />
+      <file href="mobile/6FXT3IHuQ97.png" />
+      <file href="mobile/6US4S99dncY.png" />
+      <file href="story_content/5YEKXZnY24r_44100_48_0.mp3" />
+      <file href="mobile/6UiAyf3r78U.png" />
+      <file href="mobile/5UhGSkdOTjV.png" />
+      <file href="story_content/5t0vHJUU7Oq_44100_48_0.mp3" />
+      <file href="mobile/61MB64Hc2aY.png" />
+      <file href="story_content/6oEnnR03Fka_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6fnZLGhSNd1.png" />
+      <file href="mobile/Shape5oZtnhF1Sa8.png" />
+      <file href="mobile/Shape5i9DbDRZF8O.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5itbvxn83pM.js" />
+      <file href="html5/data/js/5lxVIuHh6wV.js" />
+      <file href="html5/data/js/5v0L5kszzXm.js" />
+      <file href="html5/data/js/5XMndQORsHh.js" />
+      <file href="html5/data/js/601S0DzcCci.js" />
+      <file href="html5/data/js/6BcnoCUdZTD.js" />
+      <file href="html5/data/js/6dRbh6mKCFe.js" />
+      <file href="html5/data/js/6FcRPGgNRiy.js" />
+      <file href="html5/data/js/6HxI0q9vwcB.js" />
+      <file href="html5/data/js/6In4kZwILTW.js" />
+      <file href="html5/data/js/6JrrwemkyPG.js" />
+      <file href="html5/data/js/6LClFzEek3r.js" />
+      <file href="html5/data/js/6mHYr5EtLpL.js" />
+      <file href="html5/data/js/6MKAzugfH2l.js" />
+      <file href="html5/data/js/6o7bV1MH2Eb.js" />
+      <file href="html5/data/js/6WBE91Mxiye.js" />
+      <file href="html5/data/js/6YetL0Uhc1M.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
